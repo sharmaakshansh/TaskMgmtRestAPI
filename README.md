@@ -3,13 +3,11 @@
 Vedio demenstration links 
 
 
-A. Intro vedio-  https://drive.google.com/file/d/1pej-ynI81xAUxwXuMrE7eof7p18dTLqC/view?usp=drive_link
+
+A. Postman demenstration-  https://drive.google.com/file/d/1A6adk_ZL3rOZQmu2M5t42nWijOf9Xq-J/view?usp=drive_link
 
 
-B. Postman demenstration-  https://drive.google.com/file/d/1A6adk_ZL3rOZQmu2M5t42nWijOf9Xq-J/view?usp=drive_link
-
-
-c. Code Explanation-   https://drive.google.com/file/d/1aNexPZR2lk2_ZtUh7qJ2P-RjxI0Ry3TK/view?usp=drive_link
+B. Code Explanation-   https://drive.google.com/file/d/1aNexPZR2lk2_ZtUh7qJ2P-RjxI0Ry3TK/view?usp=drive_link
 
 
 
